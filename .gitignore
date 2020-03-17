@@ -1,0 +1,7 @@
+/logs
+/config
+/history
+/MQL4/Logs
+/tester
+*.ex4
+*.dat
